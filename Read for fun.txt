@@ -1,2 +1,5 @@
 https://medium.com/@ratulsaha/preparing-for-programming-interview-as-a-phd-student-with-python-5f8af8b40d5f
 https://www.reddit.com/r/cscareerquestions/comments/6luszf/a_leetcode_grinding_guide/
+https://www.reddit.com/r/cscareerquestions/comments/6278bi/my_journey_and_tips_29_gpa_at_a_noname_liberal/
+https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/
+https://anandology.com/python-practice-book/object_oriented_programming.html
