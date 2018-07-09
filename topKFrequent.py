@@ -27,12 +27,14 @@ def topKFrequent2(nums,k):
         bucket[f].append(key)
     res = []
     count = len(nums) # the upper limit for res
+    print (bucket)
     while len(res) < k:
         if bucket[count]:
+            
             res += bucket[count]
         count -= 1
     return res
         
 
 if __name__ == "__main__":
-    print(topKFrequent2([1,1,2,2,9],2))
+    print(topKFrequent2([1,2,9],2))
