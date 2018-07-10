@@ -12,5 +12,5 @@ DFS- Stack, visit all nodes
 https://classroom.udacity.com/courses/ud513/lessons/7121164795/concepts/77089806960923
 Learn depthfirst and breadthfirst
 
-today:
+today:https://medium.com/algorithms-and-leetcode/solving-tree-problems-on-leetcode-d0b7a9b4a7a4
 https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/798/
