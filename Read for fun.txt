@@ -7,3 +7,10 @@ https://www.reddit.com/r/cscareerquestions/comments/8aofxg/big_4_discussion_apri
 
 BFS-Queue, shortest path
 DFS- Stack, visit all nodes
+
+
+https://classroom.udacity.com/courses/ud513/lessons/7121164795/concepts/77089806960923
+Learn depthfirst and breadthfirst
+
+today:
+https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/798/
